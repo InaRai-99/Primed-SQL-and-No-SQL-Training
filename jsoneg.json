@@ -1,0 +1,3 @@
+user ={"firstname":"Bruce","lastname":"Wayne", "isStudent":true}
+array of tags (strings)
+products = {"productname": "ASUS" , "Price": 2000, "tags":["ASUS", "Electronics", "Laptop"]}:
